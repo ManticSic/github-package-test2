@@ -7,7 +7,7 @@
         <server>
             <id>github</id>
             <username>ManticSic</username>
-            <password>{PRIVATE_ACCESS_TOKEN</password>
+            <password>{PRIVATE_ACCESS_TOKEN}</password>
         </server>
     </servers>
 
