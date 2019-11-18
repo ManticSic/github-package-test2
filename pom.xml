@@ -6,7 +6,7 @@
 
     <groupId>de.weber</groupId>
     <artifactId>github-packages-test2</artifactId>
-    <version>1.7</version>
+    <version>1.8</version>
     <packaging>jar</packaging>
 
     <properties>
